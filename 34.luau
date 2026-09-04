@@ -1,7 +1,3 @@
--- MxssonHub protected loader (fixed)
--- The GitHub copy contains an encrypted payload.
--- This hides the source from casual viewing; it cannot make client-side code mathematically unrecoverable.
-
 local K = {89,91,9,148,171,250,97,225,59,73,74,179,148,128,156,86,111,221,216,21,6,99,139,33,135,159,222,156,255,199,106,41}
 local S = {193,164,48,65,21,163,213,227,242,89,17,225,109,48,149,79}
 local MOD = 4294967296
