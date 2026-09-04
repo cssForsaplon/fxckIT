@@ -1,6 +1,3 @@
--- MxssonHub protected loader
--- Encrypted payload using the same working format as the original protected build.
-
 local K = {166,35,80,193,104,20,52,156,1,247,125,64,173,248,213,173,102,92,158,120,174,3,249,149,167,6,237,15,25,149,158,60}
 local S = {97,51,219,120,233,176,25,244,239,87,229,197,221,75,90,73}
 
